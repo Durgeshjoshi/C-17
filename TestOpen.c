@@ -15,6 +15,7 @@
 		  }
    
 	  fclose(p_file);
+	   printf("Enter the sentace to appaned\n");
           return 0;
   
   }
